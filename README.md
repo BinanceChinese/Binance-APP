@@ -17,9 +17,6 @@
 4. 完成邮箱/手机验证码验证。
 5. 进行身份认证（上传身份证/护照）。
 
-### 电脑端
-- Windows / macOS 客户端下载：(https://download-1306379396.file.myqcloud.com/pack/BNApp_F0000540.apk)
-- 安装完成后，使用账号登录即可。
 
 ---
 
