@@ -3,9 +3,9 @@
 # 📖 币安（Binance）安装与注册教程
 ## 1. 官方下载入口
 ⚠️ 为了安全，请一定通过币安官网或正规应用商店下载。
-- 官网：[https://www.binance.com/](https://www.maxweb.academy/zh-CN/join?ref=BNB07)
-- iOS：[App Store](https://www.maxweb.academy/zh-CN/join?ref=BNB07)
-- Android：[Google Play](https://www.maxweb.academy/zh-CN/join?ref=BNB07)
+- 官网：[https://www.binance.com/](https://www.maxweb.black/join?ref=BNB07)
+- iOS：[App Store](https://www.maxweb.black/join?ref=BNB07)
+- Android：[Google Play](https://www.maxweb.black/join?ref=BNB07)
 - 国内安卓用户：[官网下载 APK](https://download-1306379396.file.myqcloud.com/pack/BNApp_F0000540.apk)
 ---
 
